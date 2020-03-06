@@ -1,0 +1,34 @@
+{
+  "data": {
+    "type": "comments",
+    "attributes": {
+      "text": "comment text"
+    },
+    "relationships": {
+      "account": {
+        "data": {
+          "type": "accounts",
+          "id": "account_id"
+        }
+      },
+      "resource_type": {
+        "data": {
+          "type": "dictionaries",
+          "id": "38"
+        }
+      },
+      "context": {
+        "data": {
+          "type": "maintenances",
+          "id": "1029"
+        }
+      },
+      "comment_type": {
+        "data": {
+          "type": "dictionaries",
+          "id": "73"
+        }
+      }
+    }
+  }
+}

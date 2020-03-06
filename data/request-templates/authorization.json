@@ -1,0 +1,9 @@
+{
+  "data": {
+    "type": "sessions",
+    "attributes": {
+      "user": "username",
+      "password": "pasword"
+    }
+  }
+}

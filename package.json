@@ -1,0 +1,28 @@
+{
+  "name": "nextjs-app",
+  "version": "1.0.0",
+  "description": "Example NextJS application",
+  "main": "index.js",
+  "scripts": {
+    "start-next": "yarn next dev",
+    "start": "node ./bin/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "getenv": "^0.7.0",
+    "js-cookie": "^2.2.0",
+    "js-yaml": "^3.13.1",
+    "lodash": "^4.7.11",
+    "next": "^8.1.0", 
+    "next-routes": "^1.4.2",    
+    "react": "^16.8.6",    
+    "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.1",
+    "faker": "^4.1.0",
+    "uuid": "^3.3.2",
+    "websocket": "^1.0.28"
+  }
+}
